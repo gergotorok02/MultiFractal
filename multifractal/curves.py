@@ -2,7 +2,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 
-from ultramf.utils.params import (
+from multifractal.utils.params import (
     get_param_list, flatten_params_from_list,
     get_flat_param_vector, set_flat_param_vector
 )
