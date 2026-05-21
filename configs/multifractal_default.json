@@ -1,0 +1,6 @@
+{
+  "checkpoint_root": "./cifar10_resnet18_strong_baseline",
+  "out_path": "./offline_multifractal_fixed_windows_fig03_only.npz",
+  "num_direction_banks": 8,
+  "directions_per_bank": 128
+}

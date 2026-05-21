@@ -1,0 +1,6 @@
+{
+  "checkpoint_root": "./cifar10_resnet18_strong_baseline",
+  "out_path": "./eos_diagnostics_from_checkpoints.npz",
+  "num_power_iters": 24,
+  "num_trace_samples": 24
+}
