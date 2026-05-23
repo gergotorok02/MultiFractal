@@ -133,7 +133,7 @@ eos_diagnostics_from_checkpoints.npz
 
 These files are not included directly in the GitHub repository because they are experiment artifacts. They are stored separately in a Google Drive folder:
 
-[https://drive.google.com/drive/u/0/folders/1rRWmPNu-5VRQBx0tUGxuQPBw0yTRb6Jk](URL)
+[https://drive.google.com/drive/u/0/folders/1rRWmPNu-5VRQBx0tUGxuQPBw0yTRb6Jk]()
 
 
 After downloading the three `.npz` files, place them in the project root or provide their paths explicitly when running the plotting script.
