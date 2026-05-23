@@ -1,6 +1,6 @@
 # Multifractal Structure of Neural Network Loss Landscapes
 
-Code for the MSc thesis **“Multifractal Structure of Neural Network Loss Landscapes”** - Gergő Török.
+Repository for the MSc thesis **“Multifractal Structure of Neural Network Loss Landscapes”** - Gergő Török.
 
 This repository contains three main components:
 
